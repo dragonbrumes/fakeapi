@@ -153,43 +153,6 @@
                 "Turkey",
                 "Germany"
             ]
-        },
-        {
-            "title": "24-year-old accused of drug dealing and money laundering ",
-            "pubDate": "2022-12-09 15:37:00",
-            "link": "https://timesofmalta.com/articles/view/24yearold-accused-drug-dealing-money-laundering.1000564",
-            "guid": "https://timesofmalta.com/articles/view/24yearold-accused-drug-dealing-money-laundering.1000564",
-            "author": "Jessica Arena",
-            "thumbnail": "",
-            "description": "Police are accusing a 24-year-old man of dealing cocaine and money laundering after a search of his home revealed a cache...",
-            "content": "Police are accusing a 24-year-old man of dealing cocaine and money laundering after a search of his home revealed a cache...",
-            "enclosure": {
-                "link": "https://cdn-attachments.timesofmalta.com/e7354b105dec10c194c558d9ac6ba70d69737e37-1670600235-b272a222-960x640.jpg",
-                "type": "image/jpg"
-            },
-            "categories": [
-                "National",
-                "Court"
-            ]
-        },
-        {
-            "title": "Daniel Micallef, former Labour speaker, MP, dies, aged 94",
-            "pubDate": "2022-12-09 15:28:00",
-            "link": "https://timesofmalta.com/articles/view/daniel-micallef-former-labour-speaker-mp-dies-aged-94.1000561",
-            "guid": "https://timesofmalta.com/articles/view/daniel-micallef-former-labour-speaker-mp-dies-aged-94.1000561",
-            "author": "Times of Malta",
-            "thumbnail": "",
-            "description": "Former Speaker of the House Daniel Micallef, who presided over one of the most turbulent moments in Malta's parliamentary...",
-            "content": "Former Speaker of the House Daniel Micallef, who presided over one of the most turbulent moments in Malta's parliamentary...",
-            "enclosure": {
-                "link": "https://cdn-attachments.timesofmalta.com/639430fd671f24319db006664682506b61fdace8-1670599710-0c532a33-960x640.jpg",
-                "type": "image/jpg"
-            },
-            "categories": [
-                "National",
-                "PL",
-                "Social and personal"
-            ]
-        }
+        } 
     ]
 }
