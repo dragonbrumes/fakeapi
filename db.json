@@ -1,20 +1,40 @@
-    { "news":
-     [{
-        "title": "Judge declares Yorgen Fenech’s first statement to the police inadmissible",
-        "pubDate": "2022-12-09 17:38:00",
-        "link": "https://timesofmalta.com/articles/view/judge-declares-yorgen-fenech-s-first-statement-police-inadmissible.1000603",
-        "guid": "https://timesofmalta.com/articles/view/judge-declares-yorgen-fenech-s-first-statement-police-inadmissible.1000603",
-        "author": "Jessica Arena",
-        "thumbnail": "",
-        "description": "A judge has declared the first statement made by Yorgen Fenech to the police inadmissible and cannot be exhibited as...",
-        "content": "A judge has declared the first statement made by Yorgen Fenech to the police inadmissible and cannot be exhibited as...",
-        "enclosure": {
-            "link": "https://cdn-attachments.timesofmalta.com/ab0690b93bd73a9a8c4b10cb5b59bdb0c3d15a33-1670607397-ab08e8ee-960x640.jpeg",
-            "type": "image/jpg"
-        },
-        "categories": [
-            "National",
-            "Court",
-            "Yorgen Fenech"
-        ]
-    ]}
+"items": [
+{
+"title": "Judge declares Yorgen Fenech’s first statement to the police inadmissible"
+"pubDate": "2022-12-09 17:38:00"
+"link": "https://timesofmalta.com/articles/view/judge-declares-yorgen-fenech-s-first-statement-police-inadmissible.1000603"
+"guid": "https://timesofmalta.com/articles/view/judge-declares-yorgen-fenech-s-first-statement-police-inadmissible.1000603"
+"author": "Jessica Arena"
+"thumbnail": ""
+"description": "A judge has declared the first statement made by Yorgen Fenech to the police inadmissible and cannot be exhibited as..."
+"content": "A judge has declared the first statement made by Yorgen Fenech to the police inadmissible and cannot be exhibited as..."
+"enclosure": {
+"link": "https://cdn-attachments.timesofmalta.com/ab0690b93bd73a9a8c4b10cb5b59bdb0c3d15a33-1670607397-ab08e8ee-960x640.jpeg"
+"type": "image/jpg"
+},
+"categories": [
+"National"
+"Court"
+"Yorgen Fenech"
+]
+},
+{
+"title": "Portugal parliament votes again in favour of euthanasia"
+"pubDate": "2022-12-09 17:06:00"
+"link": "https://timesofmalta.com/articles/view/portugal-parliament-votes-favour-euthanasia.1000588"
+"guid": "https://timesofmalta.com/articles/view/portugal-parliament-votes-favour-euthanasia.1000588"
+"author": "AFP"
+"thumbnail": ""
+"description": "Portugal's parliament on Friday passed a bill decriminalising euthanasia for the third time, after the two previous..."
+"content": "Portugal's parliament on Friday passed a bill decriminalising euthanasia for the third time, after the two previous..."
+"enclosure": {
+"link": "https://cdn-attachments.timesofmalta.com/02d79a6d4f4784d71d9be4fe6623c1226f775ad2-1670605560-b80d78c5-960x640.jpg"
+"type": "image/jpg"
+},
+"categories": [
+"World"
+"Portugal"
+"Euthanasia"
+]
+}
+]
