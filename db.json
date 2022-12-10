@@ -1,118 +1,96 @@
 {
-    "items": [
-        {
-            "title": "Judge declares Yorgen Fenech’s first statement to the police inadmissible",
-            "pubDate": "2022-12-09 17:38:00",
-            "link": "https://timesofmalta.com/articles/view/judge-declares-yorgen-fenech-s-first-statement-police-inadmissible.1000603",
-            "guid": "https://timesofmalta.com/articles/view/judge-declares-yorgen-fenech-s-first-statement-police-inadmissible.1000603",
-            "author": "Jessica Arena",
-            "thumbnail": "",
-            "description": "A judge has declared the first statement made by Yorgen Fenech to the police inadmissible and cannot be exhibited as...",
-            "content": "A judge has declared the first statement made by Yorgen Fenech to the police inadmissible and cannot be exhibited as...",
-            "enclosure": {
-                "link": "https://cdn-attachments.timesofmalta.com/ab0690b93bd73a9a8c4b10cb5b59bdb0c3d15a33-1670607397-ab08e8ee-960x640.jpeg",
-                "type": "image/jpg"
-            },
-            "categories": [
-                "National",
-                "Court",
-                "Yorgen Fenech"
-            ]
-        },
-        {
-            "title": "Portugal parliament votes again in favour of euthanasia",
-            "pubDate": "2022-12-09 17:06:00",
-            "link": "https://timesofmalta.com/articles/view/portugal-parliament-votes-favour-euthanasia.1000588",
-            "guid": "https://timesofmalta.com/articles/view/portugal-parliament-votes-favour-euthanasia.1000588",
-            "author": "AFP",
-            "thumbnail": "",
-            "description": "Portugal's parliament on Friday passed a bill decriminalising euthanasia for the third time, after the two previous...",
-            "content": "Portugal's parliament on Friday passed a bill decriminalising euthanasia for the third time, after the two previous...",
-            "enclosure": {
-                "link": "https://cdn-attachments.timesofmalta.com/02d79a6d4f4784d71d9be4fe6623c1226f775ad2-1670605560-b80d78c5-960x640.jpg",
-                "type": "image/jpg"
-            },
-            "categories": [
-                "World",
-                "Portugal",
-                "Euthanasia"
-            ]
-        },
-        {
-            "title": "To the market we go",
-            "pubDate": "2022-12-09 17:06:00",
-            "link": "https://timesofmalta.com/articles/view/market-go-a2.1000591",
-            "guid": "https://timesofmalta.com/articles/view/market-go-a2.1000591",
-            "author": "Sponsored",
-            "thumbnail": "",
-            "description": "Everyone has their own personal biscuit-tin fantasy. For some it is singing – with cold hands but warm heart – to old...",
-            "content": "Everyone has their own personal biscuit-tin fantasy. For some it is singing – with cold hands but warm heart – to old...",
-            "enclosure": {
-                "link": "https://cdn-attachments.timesofmalta.com/da44746fe5fefc4c3c8474b850c43e0c3231c83a-1670606131-63bfc1cf-960x640.jpg",
-                "type": "image/jpg"
-            },
-            "categories": [
-                "Community",
-                "Entertainment",
-                "Christmas"
-            ]
-        },
-        {
-            "title": "Man injured in Għaxaq occupational accident",
-            "pubDate": "2022-12-09 16:31:00",
-            "link": "https://timesofmalta.com/articles/view/man-injured-ghaxaq-occupational-accident.1000579",
-            "guid": "https://timesofmalta.com/articles/view/man-injured-ghaxaq-occupational-accident.1000579",
-            "author": "Times of Malta",
-            "thumbnail": "",
-            "description": "A worker was grievously injured in an occupational accident at Għaxaq on Friday.\nThe police said the accident took place...",
-            "content": "A worker was grievously injured in an occupational accident at Għaxaq on Friday.\nThe police said the accident took place...",
-            "enclosure": {
-                "link": "https://cdn-attachments.timesofmalta.com/7148d5936b0f97ff8511e0a78f483fe23330b8ed-1670603470-83b2206e-960x640.jpg",
-                "type": "image/jpg"
-            },
-            "categories": [
-                "National",
-                "Accident",
-                "Għaxaq"
-            ]
-        },
-        {
-            "title": "The importance of family",
-            "pubDate": "2022-12-09 16:20:00",
-            "link": "https://timesofmalta.com/articles/view/importance-family.1000576",
-            "guid": "https://timesofmalta.com/articles/view/importance-family.1000576",
-            "author": "Times of Malta",
-            "thumbnail": "",
-            "description": "Gianluca Bezzina’s Eurovision song Tomorrow may be several yesterdays ago but for some he is still “Jeremy”. For his...",
-            "content": "Gianluca Bezzina’s Eurovision song Tomorrow may be several yesterdays ago but for some he is still “Jeremy”. For his...",
-            "enclosure": {
-                "link": "https://cdn-attachments.timesofmalta.com/4ba714aba5cfa7541f279419f03107e175c6b804-1670602900-ed2029b5-960x640.jpg",
-                "type": "image/jpg"
-            },
-            "categories": [
-                "Community",
-                "Entertainment"
-            ]
-        },
-        {
-            "title": "Putin says 'agreement will have to be reached' to end Ukraine conflict",
-            "pubDate": "2022-12-09 15:52:00",
-            "link": "https://timesofmalta.com/articles/view/putin-says-agreement-reached-end-ukraine-conflict.1000570",
-            "guid": "https://timesofmalta.com/articles/view/putin-says-agreement-reached-end-ukraine-conflict.1000570",
-            "author": "AFP",
-            "thumbnail": "",
-            "description": "Russian President Vladimir Putin said on Friday that ultimately an agreement would need to be struck to end fighting in...",
-            "content": "Russian President Vladimir Putin said on Friday that ultimately an agreement would need to be struck to end fighting in...",
-            "enclosure": {
-                "link": "https://cdn-attachments.timesofmalta.com/f276bd67f14259eeadcad73482e5514e3cbbd3c3-1670601137-5e0e9440-960x640.jpg",
-                "type": "image/jpg"
-            },
-            "categories": [
-                "World",
-                "Ukraine invasion",
-                "Russia",
-                "Conflict"
-            ]
-        }
-    ]
+  "rss1": [
+    {
+      "title": "Judge declares Yorgen Fenech’s first statement to the police inadmissible",
+      "pubDate": "2022-12-09 17:38:00",
+      "link": "https://timesofmalta.com/articles/view/judge-declares-yorgen-fenech-s-first-statement-police-inadmissible.1000603",
+      "guid": "https://timesofmalta.com/articles/view/judge-declares-yorgen-fenech-s-first-statement-police-inadmissible.1000603",
+      "author": "Jessica Arena",
+      "thumbnail": "",
+      "description": "A judge has declared the first statement made by Yorgen Fenech to the police inadmissible and cannot be exhibited as...",
+      "content": "A judge has declared the first statement made by Yorgen Fenech to the police inadmissible and cannot be exhibited as...",
+      "enclosure": {
+        "link": "https://cdn-attachments.timesofmalta.com/ab0690b93bd73a9a8c4b10cb5b59bdb0c3d15a33-1670607397-ab08e8ee-960x640.jpeg",
+        "type": "image/jpg"
+      },
+      "categories": ["National", "Court", "Yorgen Fenech"]
+    },
+    {
+      "title": "Portugal parliament votes again in favour of euthanasia",
+      "pubDate": "2022-12-09 17:06:00",
+      "link": "https://timesofmalta.com/articles/view/portugal-parliament-votes-favour-euthanasia.1000588",
+      "guid": "https://timesofmalta.com/articles/view/portugal-parliament-votes-favour-euthanasia.1000588",
+      "author": "AFP",
+      "thumbnail": "",
+      "description": "Portugal's parliament on Friday passed a bill decriminalising euthanasia for the third time, after the two previous...",
+      "content": "Portugal's parliament on Friday passed a bill decriminalising euthanasia for the third time, after the two previous...",
+      "enclosure": {
+        "link": "https://cdn-attachments.timesofmalta.com/02d79a6d4f4784d71d9be4fe6623c1226f775ad2-1670605560-b80d78c5-960x640.jpg",
+        "type": "image/jpg"
+      },
+      "categories": ["World", "Portugal", "Euthanasia"]
+    }
+  ],
+  "rss2": [
+    {
+      "title": "To the market we go",
+      "pubDate": "2022-12-09 17:06:00",
+      "link": "https://timesofmalta.com/articles/view/market-go-a2.1000591",
+      "guid": "https://timesofmalta.com/articles/view/market-go-a2.1000591",
+      "author": "Sponsored",
+      "thumbnail": "",
+      "description": "Everyone has their own personal biscuit-tin fantasy. For some it is singing – with cold hands but warm heart – to old...",
+      "content": "Everyone has their own personal biscuit-tin fantasy. For some it is singing – with cold hands but warm heart – to old...",
+      "enclosure": {
+        "link": "https://cdn-attachments.timesofmalta.com/da44746fe5fefc4c3c8474b850c43e0c3231c83a-1670606131-63bfc1cf-960x640.jpg",
+        "type": "image/jpg"
+      },
+      "categories": ["Community", "Entertainment", "Christmas"]
+    },
+    {
+      "title": "Man injured in Għaxaq occupational accident",
+      "pubDate": "2022-12-09 16:31:00",
+      "link": "https://timesofmalta.com/articles/view/man-injured-ghaxaq-occupational-accident.1000579",
+      "guid": "https://timesofmalta.com/articles/view/man-injured-ghaxaq-occupational-accident.1000579",
+      "author": "Times of Malta",
+      "thumbnail": "",
+      "description": "A worker was grievously injured in an occupational accident at Għaxaq on Friday.\nThe police said the accident took place...",
+      "content": "A worker was grievously injured in an occupational accident at Għaxaq on Friday.\nThe police said the accident took place...",
+      "enclosure": {
+        "link": "https://cdn-attachments.timesofmalta.com/7148d5936b0f97ff8511e0a78f483fe23330b8ed-1670603470-83b2206e-960x640.jpg",
+        "type": "image/jpg"
+      },
+      "categories": ["National", "Accident", "Għaxaq"]
+    },
+    {
+      "title": "The importance of family",
+      "pubDate": "2022-12-09 16:20:00",
+      "link": "https://timesofmalta.com/articles/view/importance-family.1000576",
+      "guid": "https://timesofmalta.com/articles/view/importance-family.1000576",
+      "author": "Times of Malta",
+      "thumbnail": "",
+      "description": "Gianluca Bezzina’s Eurovision song Tomorrow may be several yesterdays ago but for some he is still “Jeremy”. For his...",
+      "content": "Gianluca Bezzina’s Eurovision song Tomorrow may be several yesterdays ago but for some he is still “Jeremy”. For his...",
+      "enclosure": {
+        "link": "https://cdn-attachments.timesofmalta.com/4ba714aba5cfa7541f279419f03107e175c6b804-1670602900-ed2029b5-960x640.jpg",
+        "type": "image/jpg"
+      },
+      "categories": ["Community", "Entertainment"]
+    },
+    {
+      "title": "Putin says 'agreement will have to be reached' to end Ukraine conflict",
+      "pubDate": "2022-12-09 15:52:00",
+      "link": "https://timesofmalta.com/articles/view/putin-says-agreement-reached-end-ukraine-conflict.1000570",
+      "guid": "https://timesofmalta.com/articles/view/putin-says-agreement-reached-end-ukraine-conflict.1000570",
+      "author": "AFP",
+      "thumbnail": "",
+      "description": "Russian President Vladimir Putin said on Friday that ultimately an agreement would need to be struck to end fighting in...",
+      "content": "Russian President Vladimir Putin said on Friday that ultimately an agreement would need to be struck to end fighting in...",
+      "enclosure": {
+        "link": "https://cdn-attachments.timesofmalta.com/f276bd67f14259eeadcad73482e5514e3cbbd3c3-1670601137-5e0e9440-960x640.jpg",
+        "type": "image/jpg"
+      },
+      "categories": ["World", "Ukraine invasion", "Russia", "Conflict"]
+    }
+  ]
 }
