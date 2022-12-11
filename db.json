@@ -1,6 +1,6 @@
 {
 {
-  "timesofmalta": 
+  "timesofmalta": [
     {
       "status": "ok",
       "feed": {
@@ -44,8 +44,8 @@
         }
       ]
     }
-  ,
-  "lovinmalta": 
+  ],
+  "lovinmalta": [
     {
       "status": "ok",
       "feed": {
@@ -71,8 +71,8 @@
         }
       ]
     }
-  ,
-  "maltatoday": 
+  ],
+  "maltatoday": [
     {
       "status": "ok",
       "feed": {
@@ -98,6 +98,6 @@
         }
       ]
     }
-  
+  ]
 }
 }
