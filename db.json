@@ -1,101 +1,46 @@
 {
   "timesofmalta": [
     {
-      "status": "ok",
-      "feed": {
-        "url": "https://timesofmalta.com/rss",
-        "title": "Times Of Malta",
-        "link": "https://timesofmalta.com/",
-        "author": "",
-        "description": "Times of Malta: independent news, sport, opinion, top stories, jobs, reviews, obituary listings and classifieds from Malta's top newspaper and website.",
-        "image": "https://cdn-assets.timesofmalta.com/logos/RSS_logo.png"
-      },
-      "items": [
-        {
-          "title": "White back in Arsenal training after leaving England camp",
-          "pubDate": "2022-12-11 18:48:00",
-          "link": "https://timesofmalta.com/articles/view/white-back-arsenal-training-leaving-england-camp.1000963",
-          "guid": "https://timesofmalta.com/articles/view/white-back-arsenal-training-leaving-england-camp.1000963",
-          "author": "AFP",
-          "thumbnail": "",
-          "description": "Ben White returned to training with his Arsenal teammates in Dubai having left England’s World Cup squad midway through...",
-          "content": "Ben White returned to training with his Arsenal teammates in Dubai having left England’s World Cup squad midway through...",
-          "enclosure": {
-            "link": "https://cdn-attachments.timesofmalta.com/8dd331e627b40741d00a835ff2982051d803715e-1670784550-1b675a2f-960x640.jpg",
-            "type": "image/jpg"
-          },
-          "categories": ["Sport", "Football", "Premier League"]
-        },
-        {
-          "title": "Inspire Foundation marks International Day of Persons with Disabilities",
-          "pubDate": "2022-12-11 18:48:00",
-          "link": "https://timesofmalta.com/articles/view/inspire-foundation-marks-international-day-persons-disabilities.1000801",
-          "guid": "https://timesofmalta.com/articles/view/inspire-foundation-marks-international-day-persons-disabilities.1000801",
-          "author": "Times of Malta",
-          "thumbnail": "",
-          "description": "To celebrate the annual observance of the International Day of Persons with Disabilities on December 3, Inspire...",
-          "content": "To celebrate the annual observance of the International Day of Persons with Disabilities on December 3, Inspire...",
-          "enclosure": {
-            "link": "https://cdn-attachments.timesofmalta.com/99a26edf62e9eab751768f8c1077095656bebcfe-1670690004-410332e7-960x640.jpg",
-            "type": "image/jpg"
-          },
-          "categories": ["Community", "Disability", "Education"]
-        }
-      ]
+      "title": "White back in Arsenal training after leaving England camp",
+      "pubDate": "2022-12-11 18:48:00",
+      "link": "https://timesofmalta.com/articles/view/white-back-arsenal-training-leaving-england-camp.1000963",
+      "guid": "https://timesofmalta.com/articles/view/white-back-arsenal-training-leaving-england-camp.1000963",
+      "author": "AFP",
+      "thumbnail": "",
+      "description": "Ben White returned to training with his Arsenal teammates in Dubai having left England’s World Cup squad midway through...",
+      "content": "Ben White returned to training with his Arsenal teammates in Dubai having left England’s World Cup squad midway through...",
+      "enclosure": {
+        "link": "https://cdn-attachments.timesofmalta.com/8dd331e627b40741d00a835ff2982051d803715e-1670784550-1b675a2f-960x640.jpg",
+        "type": "image/jpg"
+      }
     }
   ],
   "lovinmalta": [
     {
-      "status": "ok",
-      "feed": {
-        "url": "https://lovinmalta.com/feed/",
-        "title": "Lovin Malta",
-        "link": "https://lovinmalta.com/",
-        "author": "",
-        "description": "Malta's number one online media and news hub",
-        "image": "https://lovinmalta.com/wp-content/uploads/2022/09/cropped-fav2022-32x32.png"
-      },
-      "items": [
-        {
-          "title": "11-Year-Old Maltese Boy Publishes Third Book To Shed Light On Autism",
-          "pubDate": "2022-12-11 15:18:37",
-          "link": "https://lovinmalta.com/education/11-year-old-maltese-boy-publishes-third-book-to-shed-light-on-autism/",
-          "guid": "https://lovinmalta.com/?p=116590",
-          "author": "Tim Diacono",
-          "thumbnail": "https://lovinmalta.com/wp-content/uploads/2022/12/Untitled-design-74-1024x536.jpg",
-          "description": "\n<p><img src=\"https://lovinmalta.com/wp-content/uploads/2022/12/Untitled-design-74-1024x536.jpg\" alt=\"Article Featured Image\"></p>\n<p>Beppe Caruana may only be 11 years old but he has just published his third children’s book, one which he hopes will help people better understand his autism. Written in the Maltese language, Jien u Beppe. Beppe u Jien takes the form of email conversations between Beppe and renowned author Clare Azzopardi. Beppe and Claire … <a href=\"https://lovinmalta.com/education/11-year-old-maltese-boy-publishes-third-book-to-shed-light-on-autism/\">Continued</a></p>\n<p>•</p>\n",
-          "content": "\n<p><img src=\"https://lovinmalta.com/wp-content/uploads/2022/12/Untitled-design-74-1024x536.jpg\" alt=\"Article Featured Image\"></p>\n<p></p>\n<p class=\"p1\">Beppe Caruana may only be 11 years old but he has just published his third children’s book, one which he hopes will help people better understand his autism.</p>\n<p class=\"p1\">Written in the Maltese language, Jien u Beppe. Beppe u Jien takes the form of email conversations between Beppe and renowned author Clare Azzopardi.</p>\n<p class=\"p1\"><strong>Beppe and Claire share their likes, dislikes and fears, encouraging young readers to reflect on their own similarities and differences and ultimately promoting a sense of inclusion.</strong></p>\n<p class=\"p1\">“I want people to understand the autistic world because as autistics we are always expected to understand the neurotypical world,” Beppe explained. “Yet what about them understanding ours?”</p>\n<!--infeed--><img src=\"https://lovinmalta.com/\" class=\"aligncenter size-medium\"><p class=\"p1\">The book features imagery by Kyle Xuereb Cunningham and was financed by the Ministry for Inclusion. It will be distributed to Year 5 students across Malta and will also available from main local bookstores.</p>\n<p class=\"p1\">This is Beppe’s third children’s book – following Il-Ħbieb ta’ Ġużi and Il-Mawra Tiegħi Fl-Ispazju.</p>\n<p><strong>Tag someone who needs to read this book</strong></p>\n<p>•</p>\n",
-          "enclosure": {},
-          "categories": ["Education", "Art"]
-        }
-      ]
+      "title": "11-Year-Old Maltese Boy Publishes Third Book To Shed Light On Autism",
+      "pubDate": "2022-12-11 15:18:37",
+      "link": "https://lovinmalta.com/education/11-year-old-maltese-boy-publishes-third-book-to-shed-light-on-autism/",
+      "guid": "https://lovinmalta.com/?p=116590",
+      "author": "Tim Diacono",
+      "thumbnail": "https://lovinmalta.com/wp-content/uploads/2022/12/Untitled-design-74-1024x536.jpg",
+      "description": "\n<p><img src=\"https://lovinmalta.com/wp-content/uploads/2022/12/Untitled-design-74-1024x536.jpg\" alt=\"Article Featured Image\"></p>\n<p>Beppe Caruana may only be 11 years old but he has just published his third children’s book, one which he hopes will help people better understand his autism. Written in the Maltese language, Jien u Beppe. Beppe u Jien takes the form of email conversations between Beppe and renowned author Clare Azzopardi. Beppe and Claire … <a href=\"https://lovinmalta.com/education/11-year-old-maltese-boy-publishes-third-book-to-shed-light-on-autism/\">Continued</a></p>\n<p>•</p>\n",
+      "content": "\n<p><img src=\"https://lovinmalta.com/wp-content/uploads/2022/12/Untitled-design-74-1024x536.jpg\" alt=\"Article Featured Image\"></p>\n<p></p>\n<p class=\"p1\">Beppe Caruana may only be 11 years old but he has just published his third children’s book, one which he hopes will help people better understand his autism.</p>\n<p class=\"p1\">Written in the Maltese language, Jien u Beppe. Beppe u Jien takes the form of email conversations between Beppe and renowned author Clare Azzopardi.</p>\n<p class=\"p1\"><strong>Beppe and Claire share their likes, dislikes and fears, encouraging young readers to reflect on their own similarities and differences and ultimately promoting a sense of inclusion.</strong></p>\n<p class=\"p1\">“I want people to understand the autistic world because as autistics we are always expected to understand the neurotypical world,” Beppe explained. “Yet what about them understanding ours?”</p>\n<!--infeed--><img src=\"https://lovinmalta.com/\" class=\"aligncenter size-medium\"><p class=\"p1\">The book features imagery by Kyle Xuereb Cunningham and was financed by the Ministry for Inclusion. It will be distributed to Year 5 students across Malta and will also available from main local bookstores.</p>\n<p class=\"p1\">This is Beppe’s third children’s book – following Il-Ħbieb ta’ Ġużi and Il-Mawra Tiegħi Fl-Ispazju.</p>\n<p><strong>Tag someone who needs to read this book</strong></p>\n<p>•</p>\n",
+      "enclosure": {},
+      "categories": ["Education", "Art"]
     }
   ],
   "maltatoday": [
     {
-      "status": "ok",
-      "feed": {
-        "url": "https://www.maltatoday.com.mt/rss/",
-        "title": "MaltaToday",
-        "link": "https://www.maltatoday.com.mt/rss/",
-        "author": "",
-        "description": "MaltaToday RSS Feed",
-        "image": ""
-      },
-      "items": [
-        {
-          "title": "The final four: Who will be crowned world champion?",
-          "pubDate": "2022-12-11 16:00:00",
-          "link": "https://www.maltatoday.com.mt/sports/worldcup2022/120258/the_final_four_who_will_be_crowned_world_champion_",
-          "guid": "the_final_four_who_will_be_crowned_world_champion_",
-          "author": "",
-          "thumbnail": "",
-          "description": "Argentina face Croatia on Tuesday, while France face Morocco on Wednesday as the FIFA World Cup final edges closer",
-          "content": "Argentina face Croatia on Tuesday, while France face Morocco on Wednesday as the FIFA World Cup final edges closer",
-          "enclosure": {},
-          "categories": []
-        }
-      ]
+      "title": "The final four: Who will be crowned world champion?",
+      "pubDate": "2022-12-11 16:00:00",
+      "link": "https://www.maltatoday.com.mt/sports/worldcup2022/120258/the_final_four_who_will_be_crowned_world_champion_",
+      "guid": "the_final_four_who_will_be_crowned_world_champion_",
+      "author": "",
+      "thumbnail": "",
+      "description": "Argentina face Croatia on Tuesday, while France face Morocco on Wednesday as the FIFA World Cup final edges closer",
+      "content": "Argentina face Croatia on Tuesday, while France face Morocco on Wednesday as the FIFA World Cup final edges closer",
+      "enclosure": {},
+      "categories": []
     }
   ]
 }
